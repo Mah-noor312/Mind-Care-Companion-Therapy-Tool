@@ -1,4 +1,4 @@
-# 🧠 Mind Care Companion – AI Therapy & Emotion Support System
+Mind Care Companion – AI Therapy & Emotion Support System - FYP
 
 Mind Care Companion is an AI-powered mental health support system designed to detect user emotions and provide appropriate responses, recommendations, and escalation support. It combines **Machine Learning models, Deep Learning (FFNN), and Large Language Models (LLMs)** to simulate a conversational therapy assistant.
 
