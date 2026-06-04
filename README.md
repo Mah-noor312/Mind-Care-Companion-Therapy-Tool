@@ -67,7 +67,6 @@ Decision Engine:
 LLM Response Generator
    ↓
 Final Output to User
-``` id="fyp3"
 
 ---
 
@@ -133,10 +132,4 @@ To build an intelligent mental health assistant that combines:
 
 for providing scalable, accessible, and empathetic mental health support.
 
----
-
 ## 👩‍💻 Final Year Project
-
-**Developed by:** BSCS Final Year Team  
-**Domain:** Artificial Intelligence + Healthcare  
-**Type:** Hybrid AI System (ML + LLM + Rule-based Engine)
